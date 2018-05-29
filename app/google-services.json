@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "129746212853",
+    "firebase_url": "https://memorycache-b5e24.firebaseio.com",
+    "project_id": "memorycache-b5e24",
+    "storage_bucket": "memorycache-b5e24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129746212853:android:0ae2f5d6cebabb3b",
+        "android_client_info": {
+          "package_name": "com.example.jipark.memorycache"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129746212853-eti2rkplcrg47clg9v283coeq9n2nk7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jipark.memorycache",
+            "certificate_hash": "1c3d8df9449bdfc5c4075a5f45d117b278b88273"
+          }
+        },
+        {
+          "client_id": "129746212853-tsg4ou5h4a7qa6hirbjqlhj7np7rps1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSFAUt4jg5QQUTT31Aa5U2tObXi0YXD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129746212853-tsg4ou5h4a7qa6hirbjqlhj7np7rps1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

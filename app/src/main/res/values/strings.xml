@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Memory Cache</string>
+
+    <!-- Buttons -->
+    <string name="btn_launch_map_activity">Launch Map Activity</string>
+
+    <string name="select_photo">Select a Photo</string>
+
+    <string name="no_image">No image selected</string>
+    <string name="create_memory">Create Memory</string>
+    <string name="cancel">Cancel</string>
+    <string name="description">Description</string>
+    <string name="image_holder">Image holder</string>
+    <string name="notification_image">Notification Image</string>
+    <string name="no_memories">No Memories available</string>
+
+    <string name="GOOGLE_API_KEY">AIzaSyBZwUq-hrS_9nwxngHe18elFNWB5Bj2kIE</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to MemoryCaching!</string>
+    <string name="slide_1_desc"></string>
+
+    <string name="slide_2_title">Find a Memory</string>
+    <string name="slide_2_desc">Use the map locate memories.</string>
+
+    <string name="slide_3_title">Make a Memory</string>
+    <string name="slide_3_desc">Press the add button to create a memory.</string>
+
+    <string name="slide_4_title">View a Memory</string>
+    <string name="slide_4_desc">When you get close to a Memory a notification will pop up, click on it to view a memory.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
